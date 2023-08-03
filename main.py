@@ -1,4 +1,5 @@
 from NN import NN
 
-nn = NN()
+nn = NN([1,1])
 
+print(nn.predict([1]))
