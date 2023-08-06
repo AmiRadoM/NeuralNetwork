@@ -1,6 +1,6 @@
 # Neaural Network
 
-A Neural Network made from scratch based on https://www.youtube.com/watch?v=aircAruvnKk and https://www.youtube.com/watch?v=IHZwWFHWa-w
+A Neural Network made from scratch based on [Video1](https://www.youtube.com/watch?v=aircAruvnKk), [Video2](https://www.youtube.com/watch?v=IHZwWFHWa-w), [Video3](https://www.youtube.com/watch?v=Ilg3gGewQ5U), [Video4](https://www.youtube.com/watch?v=tIeHLnjs5U8) by 3Blue1Brown and some knowledge I already have on neural networks
 
 <!-- ## Installation
 
@@ -24,6 +24,11 @@ foobar.pluralize('goose')
 # returns 'phenomenon'
 foobar.singularize('phenomena')
 ``` -->
+
+## TODO
+
+- [x] Activation Functions
+- [ ] Backpropagation
 
 ## License
 
