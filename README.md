@@ -28,7 +28,7 @@ foobar.singularize('phenomena')
 ## TODO
 
 - [x] Activation Functions
-- [ ] Backpropagation
+- [x] Backpropagation
 
 ## License
 
